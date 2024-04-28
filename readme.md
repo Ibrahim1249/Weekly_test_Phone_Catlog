@@ -1,7 +1,7 @@
 **Phone Catalog Project README**
 
 Hosted Link
-The project is hosted at example.com/phone-catalog. Visit the link to explore the application.
+The project is hosted at https://ibrahim1249.github.io/Weekly_test_Phone_Catlog/. Visit the link to explore the application.
 
 **Overview**
 This project is a phone catalog web application designed to provide users with an intuitive interface for browsing and finding detailed information about various phones. It focuses on ensuring a visually appealing and user-friendly experience while incorporating key features like search functionality, detailed card views, and easy access to all available phones.
